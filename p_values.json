@@ -1,0 +1,22 @@
+{
+  "h0_count_mean": 10.0,
+  "h0_count_std": 0.0,
+  "h1_count_mean": 0.7679,
+  "h1_count_std": 0.6944275268161538,
+  "h2_count_mean": 0.0039,
+  "h2_count_std": 0.062328083557895486,
+  "h1_long_mean": 0.258,
+  "h1_long_std": 0.4541321393603408,
+  "h2_long_mean": 0.0002,
+  "h2_long_std": 0.014140721339450825,
+  "p_h1_count": 0.1334,
+  "p_h2_count": 1.0,
+  "p_h1_long": 1.0,
+  "p_h2_long": 1.0,
+  "actual_h0_count": 10,
+  "actual_h1_count": 2,
+  "actual_h2_count": 0,
+  "actual_h1_long": 0,
+  "actual_h2_long": 0,
+  "actual_b1_max": 1
+}
